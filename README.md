@@ -3,9 +3,13 @@
 ## Final project, Connect Four with Console/GUI/AI three versions
 
 RandomAI.java creates an AI that plays pieces randomly.
+
 SimonAI.java creates an intelligent AI that plays pieces strategically.
+
 GUICF.java creates a GUI that displays the board and the pieces played.
+
 CFGame.java creates the basic structure of the game.
+
 ConsoleCF.java creates single player, two player, and AI only games.
 
 # How to Run
