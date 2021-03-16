@@ -14,6 +14,9 @@ ConsoleCF.java creates single player, two player, and AI only games.
 
 # How to Run
 Put every file in a folder labeled Connect-Four on your desktop.
+
 Go to the command line and navigate to your desktop.
+
 Compilation: $ javac Connect_Four/main.java
+
 Runtime: $ javac Connect_Four.main
